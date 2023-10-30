@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mnVF6uKRQ5GjVFH63lsYyYStf0X0Ve1bS4B7EM2DLb0lGlLK654q7gAlPpyRh9JjXLk0bLMcofDU23F49F+SWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akons\\source\\repos\\Текстовый конвертер\\Текстовый конвертер\\Текстовый конвертер.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akons\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
